@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Chatbotbyjustin/static/css/main.0c137b2b.chunk.css",
+    "main.js": "/Chatbotbyjustin/static/js/main.26adeeb3.chunk.js",
+    "main.js.map": "/Chatbotbyjustin/static/js/main.26adeeb3.chunk.js.map",
+    "runtime-main.js": "/Chatbotbyjustin/static/js/runtime-main.e7133b41.js",
+    "runtime-main.js.map": "/Chatbotbyjustin/static/js/runtime-main.e7133b41.js.map",
+    "static/js/2.d0f4ff6b.chunk.js": "/Chatbotbyjustin/static/js/2.d0f4ff6b.chunk.js",
+    "static/js/2.d0f4ff6b.chunk.js.map": "/Chatbotbyjustin/static/js/2.d0f4ff6b.chunk.js.map",
+    "static/js/3.f10e7a1a.chunk.js": "/Chatbotbyjustin/static/js/3.f10e7a1a.chunk.js",
+    "static/js/3.f10e7a1a.chunk.js.map": "/Chatbotbyjustin/static/js/3.f10e7a1a.chunk.js.map",
+    "index.html": "/Chatbotbyjustin/index.html",
+    "static/css/main.0c137b2b.chunk.css.map": "/Chatbotbyjustin/static/css/main.0c137b2b.chunk.css.map",
+    "static/js/2.d0f4ff6b.chunk.js.LICENSE.txt": "/Chatbotbyjustin/static/js/2.d0f4ff6b.chunk.js.LICENSE.txt",
+    "static/media/Navbar.css": "/Chatbotbyjustin/static/media/Banner.46ec6212.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7133b41.js",
+    "static/js/2.d0f4ff6b.chunk.js",
+    "static/css/main.0c137b2b.chunk.css",
+    "static/js/main.26adeeb3.chunk.js"
+  ]
+}
